@@ -1,0 +1,6 @@
+{
+  "name": "Waktu Berkah - Manajemen Waktu Muslim ala Rasulullah SAW",
+  "description": "Aplikasi manajemen waktu muslim harian mengikuti jejak dan sunnah Rasulullah SAW dari bangun tidur hingga tidur kembali, dilengkapi doa harian, timeline interaktif, dan muhasabah diri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
